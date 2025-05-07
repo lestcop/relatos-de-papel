@@ -1,0 +1,16 @@
+.libros ul{
+display: grid;
+  grid-template-columns: repeat(
+    auto-fit,
+    minmax(
+      200px,
+      1fr
+    )
+  );
+  gap: 1rem;
+}
+
+.libros li{
+  display: flex;
+  flex-direction:column;
+}

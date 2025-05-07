@@ -1,0 +1,502 @@
+[
+  {
+    "titulo": "Don Quijote de la Mancha (Edición 1)",
+    "autor": "Miguel de Cervantes",
+    "categoria": "Ficción",
+    "descripcion": "Una novela clásica que narra las aventuras del caballero Don Quijote y su escudero Sancho Panza en la España del siglo XVII.",
+    "formato": "Físico",
+    "isbn": "9788491050300",
+    "precio": 15.99,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050293-L.jpg"
+  },
+  {
+    "titulo": "Orgullo y prejuicio (Edición 2)",
+    "autor": "Jane Austen",
+    "categoria": "Romance",
+    "descripcion": "La historia de Elizabeth Bennet mientras lidia con temas de educación, matrimonio y moralidad en la Inglaterra del siglo XIX.",
+    "formato": "Digital",
+    "isbn": "9788491050301",
+    "precio": 10.49,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050294-L.jpg"
+  },
+  {
+    "titulo": "Moby-Dick (Edición 3)",
+    "autor": "Herman Melville",
+    "categoria": "Aventura",
+    "descripcion": "La obsesiva búsqueda del capitán Ahab por la gran ballena blanca, Moby Dick, en una narrativa épica del mar.",
+    "formato": "Físico",
+    "isbn": "9788491050302",
+    "precio": 13.5,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050295-L.jpg"
+  },
+  {
+    "titulo": "Cumbres Borrascosas (Edición 4)",
+    "autor": "Emily Brontë",
+    "categoria": "Drama",
+    "descripcion": "Una intensa historia de amor y venganza ambientada en los páramos de Yorkshire.",
+    "formato": "Digital",
+    "isbn": "9788491050303",
+    "precio": 10.25,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050296-L.jpg"
+  },
+  {
+    "titulo": "Crimen y castigo (Edición 5)",
+    "autor": "Fyodor Dostoevsky",
+    "categoria": "Psicológico",
+    "descripcion": "La lucha interna de Raskólnikov después de cometer un asesinato, explorando temas de moralidad y redención.",
+    "formato": "Físico",
+    "isbn": "9788491050304",
+    "precio": 16.2,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050297-L.jpg"
+  },
+  {
+    "titulo": "Las aventuras de Huckleberry Finn (Edición 6)",
+    "autor": "Mark Twain",
+    "categoria": "Aventura",
+    "descripcion": "Las peripecias de Huck Finn mientras navega por el río Misisipi, enfrentando diversos desafíos y aprendiendo sobre la vida.",
+    "formato": "Digital",
+    "isbn": "9788491050305",
+    "precio": 7.99,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050298-L.jpg"
+  },
+  {
+    "titulo": "Jane Eyre (Edición 7)",
+    "autor": "Charlotte Brontë",
+    "categoria": "Romance",
+    "descripcion": "La vida de Jane Eyre, una joven huérfana que enfrenta adversidades y busca el amor verdadero.",
+    "formato": "Físico",
+    "isbn": "9788491050306",
+    "precio": 11.8,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050299-L.jpg"
+  },
+  {
+    "titulo": "El retrato de Dorian Gray (Edición 8)",
+    "autor": "Oscar Wilde",
+    "categoria": "Ficción",
+    "descripcion": "Dorian Gray desea permanecer joven para siempre, mientras su retrato envejece en su lugar, explorando la decadencia moral.",
+    "formato": "Digital",
+    "isbn": "9788491050307",
+    "precio": 7.5,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050300-L.jpg"
+  },
+  {
+    "titulo": "Drácula (Edición 9)",
+    "autor": "Bram Stoker",
+    "categoria": "Terror",
+    "descripcion": "La historia del conde Drácula y su intento de mudarse de Transilvania a Inglaterra para propagar la maldición de los no-muertos.",
+    "formato": "Físico",
+    "isbn": "9788491050308",
+    "precio": 14.95,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050301-L.jpg"
+  },
+  {
+    "titulo": "Frankenstein (Edición 10)",
+    "autor": "Mary Shelley",
+    "categoria": "Ciencia ficción",
+    "descripcion": "Victor Frankenstein crea una criatura en un experimento científico, enfrentando las consecuencias de jugar a ser Dios.",
+    "formato": "Digital",
+    "isbn": "9788491050309",
+    "precio": 11.25,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050302-L.jpg"
+  },
+  {
+    "titulo": "Don Quijote de la Mancha (Edición 11)",
+    "autor": "Miguel de Cervantes",
+    "categoria": "Ficción",
+    "descripcion": "Una novela clásica que narra las aventuras del caballero Don Quijote y su escudero Sancho Panza en la España del siglo XVII.",
+    "formato": "Físico",
+    "isbn": "9788491050310",
+    "precio": 15.99,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050293-L.jpg"
+  },
+  {
+    "titulo": "Orgullo y prejuicio (Edición 12)",
+    "autor": "Jane Austen",
+    "categoria": "Romance",
+    "descripcion": "La historia de Elizabeth Bennet mientras lidia con temas de educación, matrimonio y moralidad en la Inglaterra del siglo XIX.",
+    "formato": "Digital",
+    "isbn": "9788491050311",
+    "precio": 10.49,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050294-L.jpg"
+  },
+  {
+    "titulo": "Moby-Dick (Edición 13)",
+    "autor": "Herman Melville",
+    "categoria": "Aventura",
+    "descripcion": "La obsesiva búsqueda del capitán Ahab por la gran ballena blanca, Moby Dick, en una narrativa épica del mar.",
+    "formato": "Físico",
+    "isbn": "9788491050312",
+    "precio": 13.5,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050295-L.jpg"
+  },
+  {
+    "titulo": "Cumbres Borrascosas (Edición 14)",
+    "autor": "Emily Brontë",
+    "categoria": "Drama",
+    "descripcion": "Una intensa historia de amor y venganza ambientada en los páramos de Yorkshire.",
+    "formato": "Digital",
+    "isbn": "9788491050313",
+    "precio": 10.25,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050296-L.jpg"
+  },
+  {
+    "titulo": "Crimen y castigo (Edición 15)",
+    "autor": "Fyodor Dostoevsky",
+    "categoria": "Psicológico",
+    "descripcion": "La lucha interna de Raskólnikov después de cometer un asesinato, explorando temas de moralidad y redención.",
+    "formato": "Físico",
+    "isbn": "9788491050314",
+    "precio": 16.2,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050297-L.jpg"
+  },
+  {
+    "titulo": "Las aventuras de Huckleberry Finn (Edición 16)",
+    "autor": "Mark Twain",
+    "categoria": "Aventura",
+    "descripcion": "Las peripecias de Huck Finn mientras navega por el río Misisipi, enfrentando diversos desafíos y aprendiendo sobre la vida.",
+    "formato": "Digital",
+    "isbn": "9788491050315",
+    "precio": 7.99,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050298-L.jpg"
+  },
+  {
+    "titulo": "Jane Eyre (Edición 17)",
+    "autor": "Charlotte Brontë",
+    "categoria": "Romance",
+    "descripcion": "La vida de Jane Eyre, una joven huérfana que enfrenta adversidades y busca el amor verdadero.",
+    "formato": "Físico",
+    "isbn": "9788491050316",
+    "precio": 11.8,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050299-L.jpg"
+  },
+  {
+    "titulo": "El retrato de Dorian Gray (Edición 18)",
+    "autor": "Oscar Wilde",
+    "categoria": "Ficción",
+    "descripcion": "Dorian Gray desea permanecer joven para siempre, mientras su retrato envejece en su lugar, explorando la decadencia moral.",
+    "formato": "Digital",
+    "isbn": "9788491050317",
+    "precio": 7.5,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050300-L.jpg"
+  },
+  {
+    "titulo": "Drácula (Edición 19)",
+    "autor": "Bram Stoker",
+    "categoria": "Terror",
+    "descripcion": "La historia del conde Drácula y su intento de mudarse de Transilvania a Inglaterra para propagar la maldición de los no-muertos.",
+    "formato": "Físico",
+    "isbn": "9788491050318",
+    "precio": 14.95,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050301-L.jpg"
+  },
+  {
+    "titulo": "Frankenstein (Edición 20)",
+    "autor": "Mary Shelley",
+    "categoria": "Ciencia ficción",
+    "descripcion": "Victor Frankenstein crea una criatura en un experimento científico, enfrentando las consecuencias de jugar a ser Dios.",
+    "formato": "Digital",
+    "isbn": "9788491050319",
+    "precio": 11.25,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050302-L.jpg"
+  },
+  {
+    "titulo": "Don Quijote de la Mancha (Edición 21)",
+    "autor": "Miguel de Cervantes",
+    "categoria": "Ficción",
+    "descripcion": "Una novela clásica que narra las aventuras del caballero Don Quijote y su escudero Sancho Panza en la España del siglo XVII.",
+    "formato": "Físico",
+    "isbn": "9788491050320",
+    "precio": 15.99,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050293-L.jpg"
+  },
+  {
+    "titulo": "Orgullo y prejuicio (Edición 22)",
+    "autor": "Jane Austen",
+    "categoria": "Romance",
+    "descripcion": "La historia de Elizabeth Bennet mientras lidia con temas de educación, matrimonio y moralidad en la Inglaterra del siglo XIX.",
+    "formato": "Digital",
+    "isbn": "9788491050321",
+    "precio": 10.49,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050294-L.jpg"
+  },
+  {
+    "titulo": "Moby-Dick (Edición 23)",
+    "autor": "Herman Melville",
+    "categoria": "Aventura",
+    "descripcion": "La obsesiva búsqueda del capitán Ahab por la gran ballena blanca, Moby Dick, en una narrativa épica del mar.",
+    "formato": "Físico",
+    "isbn": "9788491050322",
+    "precio": 13.5,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050295-L.jpg"
+  },
+  {
+    "titulo": "Cumbres Borrascosas (Edición 24)",
+    "autor": "Emily Brontë",
+    "categoria": "Drama",
+    "descripcion": "Una intensa historia de amor y venganza ambientada en los páramos de Yorkshire.",
+    "formato": "Digital",
+    "isbn": "9788491050323",
+    "precio": 10.25,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050296-L.jpg"
+  },
+  {
+    "titulo": "Crimen y castigo (Edición 25)",
+    "autor": "Fyodor Dostoevsky",
+    "categoria": "Psicológico",
+    "descripcion": "La lucha interna de Raskólnikov después de cometer un asesinato, explorando temas de moralidad y redención.",
+    "formato": "Físico",
+    "isbn": "9788491050324",
+    "precio": 16.2,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050297-L.jpg"
+  },
+  {
+    "titulo": "Las aventuras de Huckleberry Finn (Edición 26)",
+    "autor": "Mark Twain",
+    "categoria": "Aventura",
+    "descripcion": "Las peripecias de Huck Finn mientras navega por el río Misisipi, enfrentando diversos desafíos y aprendiendo sobre la vida.",
+    "formato": "Digital",
+    "isbn": "9788491050325",
+    "precio": 7.99,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050298-L.jpg"
+  },
+  {
+    "titulo": "Jane Eyre (Edición 27)",
+    "autor": "Charlotte Brontë",
+    "categoria": "Romance",
+    "descripcion": "La vida de Jane Eyre, una joven huérfana que enfrenta adversidades y busca el amor verdadero.",
+    "formato": "Físico",
+    "isbn": "9788491050326",
+    "precio": 11.8,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050299-L.jpg"
+  },
+  {
+    "titulo": "El retrato de Dorian Gray (Edición 28)",
+    "autor": "Oscar Wilde",
+    "categoria": "Ficción",
+    "descripcion": "Dorian Gray desea permanecer joven para siempre, mientras su retrato envejece en su lugar, explorando la decadencia moral.",
+    "formato": "Digital",
+    "isbn": "9788491050327",
+    "precio": 7.5,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050300-L.jpg"
+  },
+  {
+    "titulo": "Drácula (Edición 29)",
+    "autor": "Bram Stoker",
+    "categoria": "Terror",
+    "descripcion": "La historia del conde Drácula y su intento de mudarse de Transilvania a Inglaterra para propagar la maldición de los no-muertos.",
+    "formato": "Físico",
+    "isbn": "9788491050328",
+    "precio": 14.95,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050301-L.jpg"
+  },
+  {
+    "titulo": "Frankenstein (Edición 30)",
+    "autor": "Mary Shelley",
+    "categoria": "Ciencia ficción",
+    "descripcion": "Victor Frankenstein crea una criatura en un experimento científico, enfrentando las consecuencias de jugar a ser Dios.",
+    "formato": "Digital",
+    "isbn": "9788491050329",
+    "precio": 11.25,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050302-L.jpg"
+  },
+  {
+    "titulo": "Don Quijote de la Mancha (Edición 31)",
+    "autor": "Miguel de Cervantes",
+    "categoria": "Ficción",
+    "descripcion": "Una novela clásica que narra las aventuras del caballero Don Quijote y su escudero Sancho Panza en la España del siglo XVII.",
+    "formato": "Físico",
+    "isbn": "9788491050330",
+    "precio": 15.99,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050293-L.jpg"
+  },
+  {
+    "titulo": "Orgullo y prejuicio (Edición 32)",
+    "autor": "Jane Austen",
+    "categoria": "Romance",
+    "descripcion": "La historia de Elizabeth Bennet mientras lidia con temas de educación, matrimonio y moralidad en la Inglaterra del siglo XIX.",
+    "formato": "Digital",
+    "isbn": "9788491050331",
+    "precio": 10.49,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050294-L.jpg"
+  },
+  {
+    "titulo": "Moby-Dick (Edición 33)",
+    "autor": "Herman Melville",
+    "categoria": "Aventura",
+    "descripcion": "La obsesiva búsqueda del capitán Ahab por la gran ballena blanca, Moby Dick, en una narrativa épica del mar.",
+    "formato": "Físico",
+    "isbn": "9788491050332",
+    "precio": 13.5,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050295-L.jpg"
+  },
+  {
+    "titulo": "Cumbres Borrascosas (Edición 34)",
+    "autor": "Emily Brontë",
+    "categoria": "Drama",
+    "descripcion": "Una intensa historia de amor y venganza ambientada en los páramos de Yorkshire.",
+    "formato": "Digital",
+    "isbn": "9788491050333",
+    "precio": 10.25,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050296-L.jpg"
+  },
+  {
+    "titulo": "Crimen y castigo (Edición 35)",
+    "autor": "Fyodor Dostoevsky",
+    "categoria": "Psicológico",
+    "descripcion": "La lucha interna de Raskólnikov después de cometer un asesinato, explorando temas de moralidad y redención.",
+    "formato": "Físico",
+    "isbn": "9788491050334",
+    "precio": 16.2,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050297-L.jpg"
+  },
+  {
+    "titulo": "Las aventuras de Huckleberry Finn (Edición 36)",
+    "autor": "Mark Twain",
+    "categoria": "Aventura",
+    "descripcion": "Las peripecias de Huck Finn mientras navega por el río Misisipi, enfrentando diversos desafíos y aprendiendo sobre la vida.",
+    "formato": "Digital",
+    "isbn": "9788491050335",
+    "precio": 7.99,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050298-L.jpg"
+  },
+  {
+    "titulo": "Jane Eyre (Edición 37)",
+    "autor": "Charlotte Brontë",
+    "categoria": "Romance",
+    "descripcion": "La vida de Jane Eyre, una joven huérfana que enfrenta adversidades y busca el amor verdadero.",
+    "formato": "Físico",
+    "isbn": "9788491050336",
+    "precio": 11.8,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050299-L.jpg"
+  },
+  {
+    "titulo": "El retrato de Dorian Gray (Edición 38)",
+    "autor": "Oscar Wilde",
+    "categoria": "Ficción",
+    "descripcion": "Dorian Gray desea permanecer joven para siempre, mientras su retrato envejece en su lugar, explorando la decadencia moral.",
+    "formato": "Digital",
+    "isbn": "9788491050337",
+    "precio": 7.5,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050300-L.jpg"
+  },
+  {
+    "titulo": "Drácula (Edición 39)",
+    "autor": "Bram Stoker",
+    "categoria": "Terror",
+    "descripcion": "La historia del conde Drácula y su intento de mudarse de Transilvania a Inglaterra para propagar la maldición de los no-muertos.",
+    "formato": "Físico",
+    "isbn": "9788491050338",
+    "precio": 14.95,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050301-L.jpg"
+  },
+  {
+    "titulo": "Frankenstein (Edición 40)",
+    "autor": "Mary Shelley",
+    "categoria": "Ciencia ficción",
+    "descripcion": "Victor Frankenstein crea una criatura en un experimento científico, enfrentando las consecuencias de jugar a ser Dios.",
+    "formato": "Digital",
+    "isbn": "9788491050339",
+    "precio": 11.25,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050302-L.jpg"
+  },
+  {
+    "titulo": "Don Quijote de la Mancha (Edición 41)",
+    "autor": "Miguel de Cervantes",
+    "categoria": "Ficción",
+    "descripcion": "Una novela clásica que narra las aventuras del caballero Don Quijote y su escudero Sancho Panza en la España del siglo XVII.",
+    "formato": "Físico",
+    "isbn": "9788491050340",
+    "precio": 15.99,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050293-L.jpg"
+  },
+  {
+    "titulo": "Orgullo y prejuicio (Edición 42)",
+    "autor": "Jane Austen",
+    "categoria": "Romance",
+    "descripcion": "La historia de Elizabeth Bennet mientras lidia con temas de educación, matrimonio y moralidad en la Inglaterra del siglo XIX.",
+    "formato": "Digital",
+    "isbn": "9788491050341",
+    "precio": 10.49,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050294-L.jpg"
+  },
+  {
+    "titulo": "Moby-Dick (Edición 43)",
+    "autor": "Herman Melville",
+    "categoria": "Aventura",
+    "descripcion": "La obsesiva búsqueda del capitán Ahab por la gran ballena blanca, Moby Dick, en una narrativa épica del mar.",
+    "formato": "Físico",
+    "isbn": "9788491050342",
+    "precio": 13.5,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050295-L.jpg"
+  },
+  {
+    "titulo": "Cumbres Borrascosas (Edición 44)",
+    "autor": "Emily Brontë",
+    "categoria": "Drama",
+    "descripcion": "Una intensa historia de amor y venganza ambientada en los páramos de Yorkshire.",
+    "formato": "Digital",
+    "isbn": "9788491050343",
+    "precio": 10.25,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050296-L.jpg"
+  },
+  {
+    "titulo": "Crimen y castigo (Edición 45)",
+    "autor": "Fyodor Dostoevsky",
+    "categoria": "Psicológico",
+    "descripcion": "La lucha interna de Raskólnikov después de cometer un asesinato, explorando temas de moralidad y redención.",
+    "formato": "Físico",
+    "isbn": "9788491050344",
+    "precio": 16.2,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050297-L.jpg"
+  },
+  {
+    "titulo": "Las aventuras de Huckleberry Finn (Edición 46)",
+    "autor": "Mark Twain",
+    "categoria": "Aventura",
+    "descripcion": "Las peripecias de Huck Finn mientras navega por el río Misisipi, enfrentando diversos desafíos y aprendiendo sobre la vida.",
+    "formato": "Digital",
+    "isbn": "9788491050345",
+    "precio": 7.99,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050298-L.jpg"
+  },
+  {
+    "titulo": "Jane Eyre (Edición 47)",
+    "autor": "Charlotte Brontë",
+    "categoria": "Romance",
+    "descripcion": "La vida de Jane Eyre, una joven huérfana que enfrenta adversidades y busca el amor verdadero.",
+    "formato": "Físico",
+    "isbn": "9788491050346",
+    "precio": 11.8,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050299-L.jpg"
+  },
+  {
+    "titulo": "El retrato de Dorian Gray (Edición 48)",
+    "autor": "Oscar Wilde",
+    "categoria": "Ficción",
+    "descripcion": "Dorian Gray desea permanecer joven para siempre, mientras su retrato envejece en su lugar, explorando la decadencia moral.",
+    "formato": "Digital",
+    "isbn": "9788491050347",
+    "precio": 7.5,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050300-L.jpg"
+  },
+  {
+    "titulo": "Drácula (Edición 49)",
+    "autor": "Bram Stoker",
+    "categoria": "Terror",
+    "descripcion": "La historia del conde Drácula y su intento de mudarse de Transilvania a Inglaterra para propagar la maldición de los no-muertos.",
+    "formato": "Físico",
+    "isbn": "9788491050348",
+    "precio": 14.95,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050301-L.jpg"
+  },
+  {
+    "titulo": "Frankenstein (Edición 50)",
+    "autor": "Mary Shelley",
+    "categoria": "Ciencia ficción",
+    "descripcion": "Victor Frankenstein crea una criatura en un experimento científico, enfrentando las consecuencias de jugar a ser Dios.",
+    "formato": "Digital",
+    "isbn": "9788491050349",
+    "precio": 11.25,
+    "imagen": "https://covers.openlibrary.org/b/isbn/9788491050302-L.jpg"
+  }
+]
