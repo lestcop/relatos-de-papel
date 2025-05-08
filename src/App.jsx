@@ -1,13 +1,17 @@
 import React from "react";
-import './styles/App.css'
+import Header from "./components/Header"
 import {Libros} from "./components/Libros"
-import {datalibros} from './mocks/librosconid.json'
+import {datalibros} from './mocks/datalibros.json'
+import './styles/App.css'
 
 
 function App() {
 
   return (
-    <Libros datalibros={datalibros} />
+    <>
+      <Header />
+      <Libros datalibros={datalibros} />
+    </>
   )
 }
 
