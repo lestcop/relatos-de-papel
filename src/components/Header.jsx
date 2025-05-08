@@ -1,6 +1,5 @@
 import React from "react";
 import "../styles/header.css";
-import { FaShoppingCart, FaUser } from "react-icons/fa"; // Librería de íconos react-icons
 
 function Header() {
   return (
