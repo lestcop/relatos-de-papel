@@ -1,16 +1,33 @@
-.libros ul{
-display: grid;
-  grid-template-columns: repeat(
-    auto-fit,
-    minmax(
-      200px,
-      1fr
-    )
-  );
-  gap: 1rem;
+.carousel-container {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
 }
 
-.libros li{
+.carousel {
   display: flex;
-  flex-direction:column;
+  gap: 20px;
+  transition: transform 0.5s ease-in-out;
+}
+
+.carousel-item {
+  min-width: 200px;
+  text-align: center;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  text-align: left;
+}
+
+.carousel-item h3 {
+  margin: 10px 0 5px;
+  font-size: 18px;
+}
+
+.carousel-item p {
+  font-size: 14px;
+  color: #555;
 }

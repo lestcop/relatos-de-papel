@@ -1,32 +1,28 @@
-import '../styles/Libros.css'
-import React from 'react';
+import React from "react";
+import Slider from "react-slick";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
+import "../styles/libros.css";
 
-export function Libros({datalibros}) {
-    return(
-        <main className='libros'>
-            <ul>
-                {datalibros.map((libro) => (
-                    <li key={libro.id}>
-                        <img src={libro.imagen} alt={libro.titulo} />
-                        <div>
-                            <strong>{libro.titulo}</strong>  
-                        </div>
-                        <div>
-                            Autor: {libro.autor}
-                        </div>
-                        <div>
-                            Categoría: {libro.categoria}
-                        </div>
-                        <div>
-                            Formato: {libro.formato} 
-                        </div>
-                        <div>
-                            ${libro.precio} 
-                        </div>
-                    </li>
-                ))}
-            </ul>
-        </main>
-    )
-
-}
+export function Libros({ datalibros }) {
+    const settings = {
+      dots: true,
+      infinite: true,
+      speed: 500,
+      slidesToShow: 5,
+      slidesToScroll: 5,
+    };
+  
+    return (
+      <Slider {...settings}>
+        {datalibros.map((libro, index) => (
+          <div className="carousel-item" key={index}>
+            <img src={libro.imagen} alt={libro.titulo} />
+            <h3>{libro.titulo}</h3>
+            <p>{libro.autor}</p>
+            <p>${libro.precio}</p>
+          </div>
+        ))}
+      </Slider>
+    );
+  }
