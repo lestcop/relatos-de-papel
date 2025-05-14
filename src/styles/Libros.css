@@ -1,4 +1,4 @@
-.carousel-container {
+/* .carousel-container {
   width: 100%;
   overflow: hidden;
   position: relative;
@@ -12,7 +12,7 @@
 
 .carousel-item {
   min-width: 200px;
-  text-align: center;
+  text-align: Left;
 }
 
 .carousel-item img {
@@ -30,4 +30,61 @@
 .carousel-item p {
   font-size: 14px;
   color: #555;
+} */
+
+
+.LibrosCard {
+  display: flex;
+  flex-wrap: wrap; /* Permite que las tarjetas se ajusten en varias filas */
+  gap: 20px; /* Espaciado entre las tarjetas */
+  justify-content: center; /* Centra las tarjetas horizontalmente */
+  padding: 20px;
+}
+
+.LibrosCard-item {
+  width: 200px; /* Ancho fijo para las tarjetas */
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra para destacar las tarjetas */
+  padding: 15px;
+  text-align: left; /* Coloca el contenido al lado izquierdo */
+}
+
+.LibrosCard-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 10px; /* Espacio entre la imagen y el texto */
+}
+
+.LibrosCard-item h3 {
+  font-size: 18px;
+  margin: 10px 0 5px; /* Espacio entre el título y el autor */
+  color: #333;
+}
+
+.LibrosCard-item p {
+  font-size: 14px;
+  color: #555;
+  margin: 5px 0; /* Espacio entre los párrafos */
+}
+
+.LibrosCard-item p:last-of-type {
+  font-weight: bold; /* Resalta el precio */
+  color: #000;
+}
+.search-bar {
+  width: 100%;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.search-bar input {
+  width: 50%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }

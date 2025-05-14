@@ -7,14 +7,19 @@
   }
   
   
-  .search-bar input {
+.search-bar input {
     width: 600px;
     height: 25px;
     padding: 15px 20px;
-    border: 2px solid #fd362f;
+    border: 2px solid orange; /* Cambia el contorno a color naranja */
     border-radius: 15px;
     background-color: rgb(255, 255, 255);
-  }
+    color: black; /* Cambia el color del texto a negro */
+}
+
+.search-bar input::placeholder {
+    color: rgb(255, 128, 128); /* Opcional: Cambia el color del texto del placeholder */
+}
   
   .icons {
     display: flex;
@@ -27,6 +32,6 @@
   
   .logo h1 {
     margin: 0; 
-    font-size: 30px; 
+    font-size: 20px; 
     line-height: 1; 
   }
