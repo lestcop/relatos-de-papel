@@ -32,7 +32,7 @@ function Header({ searchTerm, setSearchTerm }) {
       <div className="header-container">
         <div className="logo">
           <h1>Relatos de</h1>
-          <h1>Papel</h1>
+          <h1>Papel rama prueba</h1>
         </div>
 
         <div className="search-bar">
